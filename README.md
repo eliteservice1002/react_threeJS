@@ -1,6 +1,6 @@
 # React, Three JS, and react-three-fiber with TypeScript
 
-This repository is intended as the simplest example of using react-three-fiber (and orbit controls) with TypeScript. It follows the first part of [this tutorial](https://dev.to/manan30/creating-a-rudimentary-pool-table-game-using-react-three-js-and-react-three-fiber-part-1-363l) by [Manan Joshi](https://dev.to/manan30) and a [handy comment from Paul Henschel](https://spectrum.chat/react-three-fiber/general/property-orbitcontrols-does-not-exist-on-type-jsx-intrinsicelements~44712e68-4601-4486-b4b4-5e112f3dc09e).
+This repository is intended as the simplest example of using react-three-fiber (and orbit controls) with TypeScript. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
+Runs the app in development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
